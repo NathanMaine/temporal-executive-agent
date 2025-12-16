@@ -1,0 +1,4 @@
+[
+  {"id": "task-a", "title": "Alpha", "due_date": "2025-01-02"},
+  {"id": "task-b", "title": "Beta", "dependencies": ["task-a"]}
+]

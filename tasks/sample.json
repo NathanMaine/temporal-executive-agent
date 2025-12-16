@@ -1,0 +1,5 @@
+[
+  {"id": "task-1", "title": "Draft outline", "due_date": "2025-01-05", "dependencies": []},
+  {"id": "task-2", "title": "Collect data", "due_date": "2025-01-03", "dependencies": []},
+  {"id": "task-3", "title": "Write report", "dependencies": ["task-1", "task-2"]}
+]
